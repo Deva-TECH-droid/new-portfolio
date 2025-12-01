@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/my-self2.jpg";
 import Tilt from "react-parallax-tilt";
 
 function Home2() {
@@ -33,7 +33,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Web Applications, devops,{" "}
                 </b>
               </i>
               and exploring new ways to bridge on-chain and off-chain systems.
